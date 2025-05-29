@@ -8,3 +8,11 @@ body {
     background-color: #ddd;
     margin-bottom: 20px;
 }
+
+/* 2 - flex column */
+.flex-column {
+    display: flex;
+    flex-direction: column;
+    background-color: #ccc;
+    margin-bottom: 20px;
+}
